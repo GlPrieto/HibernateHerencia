@@ -23,6 +23,10 @@
         <mapping class ="es.aytos.dual.hibernate.herencia.modelo.Animal"/>
 		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Perro"/>
 		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Gato"/>
+		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Canario"/>
+		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Empleado"/>
+		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Sistemas"/>
+		<mapping class ="es.aytos.dual.hibernate.herencia.modelo.Programacion"/>
         
     </session-factory>
 </hibernate-configuration>
